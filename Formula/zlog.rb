@@ -2,7 +2,7 @@ class Zlog < Formula
   desc "Lightweight CLI tool with browser UI for streaming NDJSON logs"
   homepage "https://github.com/w9/zlog"
   url "https://github.com/w9/zlog/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "05f680fb5f4f32845f30b50541e4dd0a20026867ae3ff1d2931fb134faa60929"
   license "MIT"
 
   depends_on "go" => :build
